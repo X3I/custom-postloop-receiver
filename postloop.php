@@ -1,5 +1,4 @@
 <?php
-
 if (isset($_GET['action'])) {
     
     switch ($_GET['action']) {
@@ -18,6 +17,7 @@ if (isset($_GET['action'])) {
             echo 'Action not found';
     }
     
+} else {
+    echo 'Nothing to see here!';
 }
-
 ?>

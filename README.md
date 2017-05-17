@@ -1,2 +1,2 @@
 # custom-postloop-receiver
-Base to make custom postloop receivers that validate.
+Base to make custom postloop.com receivers that validate.
